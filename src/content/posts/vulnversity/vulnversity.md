@@ -8,6 +8,7 @@ category: TryHackMe
 draft: false
 ---
 
+[THM](https://tryhackme.com/room/vulnversity)
 ## 1. Scanning for open ports with NMAP
 1. ![image](Pasted%20image%2020250204114657.png)
 ## 2. Enumerating directories on port 3333 with GoBuster
