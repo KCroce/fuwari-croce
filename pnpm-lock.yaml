@@ -162,6 +162,9 @@ importers:
       '@types/sanitize-html':
         specifier: ^2.16.0
         version: 2.16.0
+      ic:round-emoji-flags:
+        specifier: link:@iconify-json/ic:round-emoji-flags
+        version: link:@iconify-json/ic:round-emoji-flags
       postcss-import:
         specifier: ^16.1.1
         version: 16.1.1(postcss@8.5.6)
