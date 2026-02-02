@@ -1,0 +1,10 @@
+---
+title: Creative
+published: 2025-10-14
+description: CTF - "Boot2root, Web exploitation, Privilege escalation, LFI"
+image: "./creative.svg"
+tags: [CTF, CTF - easy] 
+category: TryHackMe
+draft: false
+---
+[THM](https://tryhackme.com/room/creative)

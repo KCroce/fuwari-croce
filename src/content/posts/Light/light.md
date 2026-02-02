@@ -1,9 +1,9 @@
 ---
 title: Light
 published: 2025-07-02
-description: CTF - "Can you breach the server?"
+description: CTF - "Welcome to the Light database application!"
 image: "./light.png"
-tags: [CTF]
+tags: [CTF, CTF - easy]
 category: TryHackMe
 draft: false
 ---

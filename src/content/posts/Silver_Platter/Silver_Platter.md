@@ -3,7 +3,7 @@ title: Silver Platter
 published: 2025-07-01
 description: CTF - "Can you breach the server?"
 image: "./silver.png"
-tags: [CTF]
+tags: [CTF, CTF - easy]
 category: TryHackMe
 draft: false
 ---
@@ -88,7 +88,7 @@ Now with administrator access, I searched for exploits that could be used with p
 - ![image](./Pasted%20image%2020250705145059.png)
 
 ---
-# Privilege Escalation (tyler → root)
+# Privilege Escalation (tim → tyler)
 1. Identifying the current user
 * ![image](./Pasted%20image%2020250705145949.png)
 
