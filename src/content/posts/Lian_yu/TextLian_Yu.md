@@ -3,7 +3,7 @@ title: Lian Yu
 published: 2025-11-27
 description: CTF - "Boot2root, Web exploitation, Privilege escalation, LFI"
 image: "./lianyuIMG.jpeg"
-tags: [CTF, CTF - easy] 
+tags: [CTF, CTF_THM, CTF_THM - easy] 
 category: TryHackMe
 draft: false
 ---

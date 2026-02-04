@@ -3,7 +3,7 @@ title: Vulnversity
 published: 2025-02-04
 description: CTF - "Learn about active recon, web app attacks and privilege escalation."
 image: "./vulnversity.png"
-tags: [CTF, CTF - easy]
+tags: [CTF, CTF_THM, CTF_THM - easy]
 category: TryHackMe
 draft: false
 ---

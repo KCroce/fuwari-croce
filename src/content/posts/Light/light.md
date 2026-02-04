@@ -3,7 +3,7 @@ title: Light
 published: 2025-07-02
 description: CTF - "Welcome to the Light database application!"
 image: "./light.png"
-tags: [CTF, CTF - easy]
+tags: [CTF, CTF_THM, CTF_THM - easy]
 category: TryHackMe
 draft: false
 ---

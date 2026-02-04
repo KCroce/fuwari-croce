@@ -3,7 +3,7 @@ title: Silver Platter
 published: 2025-07-01
 description: CTF - "Can you breach the server?"
 image: "./silver.png"
-tags: [CTF, CTF - easy]
+tags: [CTF, CTF_THM, CTF_THM - easy]
 category: TryHackMe
 draft: false
 ---
