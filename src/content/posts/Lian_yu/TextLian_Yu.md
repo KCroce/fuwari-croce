@@ -99,8 +99,8 @@ ut his mask, Slade wears an eyepatch to cover his eye.
 1. Slade, Wilson
 2. Adeline, Kane
 3. Joseph, Wilson
-4. Wintergreen, (apenas sobrenome — personagem é conhecido assim)
-5. Jackal, (apelido/codinome — pode ser usado como uma palavra única)
+4. Wintergree
+5. Jackal
 ### StegSeek
 
 
